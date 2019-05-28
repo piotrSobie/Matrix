@@ -1,0 +1,87 @@
+Zadanie B
+
+Jacobi:
+Ilosc iteracji: 39
+Norma: 9.06327e-10
+Czas: 838 ms.
+
+Gauss-Seidel:
+Ilosc iteracji: 24
+Norma: 8.98047e-10
+Czas: 413 ms.
+-----------------------------------------
+Zadanie C
+
+Jacobi:
+Metoda Jacobiego nie zbiega sie
+
+Gauss-Seidel:
+Metoda Gaussa-Seidela nie zbiega sie
+-----------------------------------------
+Zadanie D
+
+LU:
+Norma: 1.80557e-13
+Czas: 1034 ms.
+-----------------------------------------
+Zadanie E
+
+N = 100
+Jacobi:
+Ilosc iteracji: 40
+Norma: 7.46332e-10
+Czas: 14 ms.
+
+Gauss-Seidel:
+Ilosc iteracji: 25
+Norma: 7.54776e-10
+Czas: 8 ms.
+
+LU:
+Norma: 8.21732e-16
+Czas: 1 ms.
+
+*****************************************
+N = 500
+Jacobi:
+Ilosc iteracji: 40
+Norma: 9.6792e-10
+Czas: 213 ms.
+
+Gauss-Seidel:
+Ilosc iteracji: 26
+Norma: 6.52767e-10
+Czas: 135 ms.
+
+LU:
+Norma: 1.84257e-15
+Czas: 175 ms.
+
+*****************************************
+N = 1000
+Jacobi:
+Ilosc iteracji: 40
+Norma: 8.02306e-10
+Czas: 818 ms.
+
+Gauss-Seidel:
+Ilosc iteracji: 25
+Norma: 8.93658e-10
+Czas: 509 ms.
+
+LU:
+Norma: 2.49632e-15
+Czas: 1593 ms.
+
+*****************************************
+N = 2000
+Jacobi:
+Ilosc iteracji: 40
+Norma: 9.23113e-10
+Czas: 3129 ms.
+
+Gauss-Seidel:
+Ilosc iteracji: 26
+Norma: 6.17312e-10
+Czas: 2039 ms.
+
